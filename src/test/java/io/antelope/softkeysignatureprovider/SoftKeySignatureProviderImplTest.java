@@ -10,7 +10,6 @@ import io.antelope.javasdk.error.utilities.PEMProcessorError;
 import io.antelope.javasdk.models.signatureProvider.EosioTransactionSignatureRequest;
 import io.antelope.javasdk.models.signatureProvider.EosioTransactionSignatureResponse;
 import io.antelope.javasdk.utilities.EOSFormatter;
-import io.antelope.softkeysignatureprovider.SoftKeySignatureProviderImpl;
 import io.antelope.softkeysignatureprovider.error.ImportKeyError;
 import io.antelope.softkeysignatureprovider.error.SoftKeySignatureErrorConstants;
 import org.hamcrest.core.IsInstanceOf;
